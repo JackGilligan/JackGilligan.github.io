@@ -1,5 +1,5 @@
 CLASSES = {
-  0: 'Pa Sculpture',
+  0: 'Pan Sculpture',
   1: 'Sundial',
   2: 'Uris Curl'
   //0: 'Daisies',
