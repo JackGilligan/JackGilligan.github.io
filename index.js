@@ -1,19 +1,13 @@
 CLASSES = {
-  0: 'Pan Sculpture',
-  1: 'Sundial',
-  2: 'Uris Curl'
-  //0: 'Daisies',
-  //1: 'Dandelions',
-  //2: 'Roses',
-  //3: 'Sunflowers',
-  //4: 'Tulips',
+  0: 'Good',
+  1: 'Bad'
 };
 
 const MODEL_PATH =
     'model.json';
 
-const IMAGE_SIZE = 192;
-const TOPK_PREDICTIONS = 3;
+const IMAGE_SIZE = 224;
+const TOPK_PREDICTIONS = 2;
 
 let my_model;
 const demo = async () => {
