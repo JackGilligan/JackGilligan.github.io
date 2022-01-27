@@ -1,2 +1,2 @@
 # JackGilligan.github.io
-adl - browser CU Landmark Classifier 
+Multi-receipt image classifier
