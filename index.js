@@ -1,6 +1,6 @@
 CLASSES = {
-  0: 'Good',
-  1: 'Bad'
+  0: 'Single/Ok',
+  1: 'Multiple'
 };
 
 const MODEL_PATH =
